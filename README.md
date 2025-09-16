@@ -1,4 +1,4 @@
-# pokergame
+# Poker Game
 
 Problem Statement: 
 
